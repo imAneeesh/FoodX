@@ -1,1 +1,1 @@
-A Angular Project with Node js
+FoodX is a web based Project using Angular Project with Node js
